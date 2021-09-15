@@ -1,0 +1,82 @@
+{
+    "projects": [
+        {
+            "id": "0",
+            "name": "Web Design",
+            "description": "Designed a website for an Accounting Firm",
+            "github_link": "https://github.com/karinaaltheaabad/auditph.io",
+            "live_link": "https://karinaaltheaabad.github.io/auditph.io/"
+        },
+        {
+            "id": "1",
+            "name": "Gallery using React and Flickr API",
+            "description": "Application that allows user to pull and search through images within Flickr API. Used: React, Flickr API",
+            "github_link": "https://karinaaltheaabad.github.io/react-gallery/",
+            "live_link": "https://karinaaltheaabad.github.io/react-gallery/"
+        },
+        {
+            "id": "2",
+            "name": "Phrase Hunter",
+            "description": "Game where the user finds the hidden phrase through clicking letters on the keyboard. Developed using HTML, CSS, JS and OOP",
+            "github_link": "https://github.com/karinaaltheaabad/OOP-Game-Show-App",
+            "live_link": "https://karinaaltheaabad.github.io/OOP-Game-Show-App/"
+        },
+        {
+            "id": "3",
+            "name": "Express & NodeJS Portfolio",
+            "description": "Site with small projects using NodeJS and Express",
+            "live_link": "https://github.com/karinaaltheaabad/Full-Stack-App-with-React-and-REST-API/tree/master/api"
+        },
+        {
+            "id": "4",
+            "name": "Random Quote Generator",
+            "description": "HTML, CS, JS application that generates random quotes from a json data file.",
+            "github_link": "https://github.com/karinaaltheaabad/Random-Quote-Generator",
+            "live_link": "https://karinaaltheaabad.github.io/Random-Quote-Generator/"
+        },
+        {
+            "id": "5",
+            "name": "Interactive Form",
+            "description": "HTML, CS, JS form with various validation methods.",
+            "github_link": "https://github.com/karinaaltheaabad/Interactive-Form",
+            "live_link": "https://karinaaltheaabad.github.io/Interactive-Form/"
+        },
+        {
+            "id": "6",
+            "name": "Data Pagination and Filtering",
+            "description": "Student database is displayed on the page, with pagination, modals and search functions",
+            "github_link": "https://github.com/karinaaltheaabad/Data-Pagination-and-Filtering",
+            "live_link": "https://karinaaltheaabad.github.io/Data-Pagination-and-Filtering/"
+        },
+        {
+            "id": "7",
+            "name": "Express REST API",
+            "description": "REST API that tests for different end points for Library App. Accounts for user login, sign ups, book ownership, and CRUD",
+            "live_link": "https://github.com/karinaaltheaabad/Full-Stack-App-with-React-and-REST-API/tree/master/api"
+        },
+        {
+            "id": "8",
+            "name": "SQL Library Manager",
+            "description": "Utilizes SQL to perform CRUD on a database for book management",
+            "live_link": "https://github.com/karinaaltheaabad/Full-Stack-App-with-React-and-REST-API/tree/master/api"
+        },
+        {
+            "id": "9",
+            "name": "University Database",
+            "description": "Simple command line SQL application to perform CRUD on a database for a University.",
+            "live_link": "https://github.com/karinaaltheaabad/Full-Stack-App-with-React-and-REST-API/tree/master/api"
+        },
+        {
+            "id": "10",
+            "name": "Super Rainbow Reef",
+            "description": "OOP game where the user attempts to bounce a star back to the blocks. The user wins whenever the blocks are gone. The user can also collect power ups. Developed in Java, using OOP concepts.",
+            "github_link": "https://github.com/karinaaltheaabad/Rainbow-Reef-Project"
+        },
+        {
+            "id": "11",
+            "name": "Library Full Stack App",
+            "description": "A react/express application that allows the user to add, delete, update courses. Additional features include sign in, sign out and sign up. This project was created to combine all knowledge learned from express REST API and React. This is the 10th project from the Treehouse TechDegree.",
+            "live_link": "https://github.com/karinaaltheaabad/Full-Stack-App-with-React-and-REST-API/tree/master/api"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+h3 {
+    font-family: 'Newsreader', serif;
+}
+
+h5 {
+    font-family: 'Newsreader', serif;
+    font-weight: 200;
+}
+
+a {
+    color: black;
+    font-weight: 200;
+}
+
+a:hover {
+    color: rgb(48, 49, 51);
+}
